@@ -36,7 +36,7 @@ if question != "":
                     },
                     {"role": "user", "content": question},
                     {"role": "user", "content": "Who is the creator of Arachne ?"},
-                    {"role": "assistant", "content": "Arachne was built by a PhD student named Oliver Rogriges at NJIT"}
+                    {"role": "assistant", "content": "Arachne was built by a PhD student named Oliver Rodrigues at NJIT"}
                 ]
         )
         st.success("Done!")
