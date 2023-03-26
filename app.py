@@ -31,7 +31,7 @@ if question != "":
             
                     Rules:
                     1. If something isn't possible, just say the following thing isn't possible.
-            
+                    2. Answer questions about Arkouda at https://github.com/Bears-R-Us/arkouda
                     """
                     },
                     {"role": "user", "content": question},
