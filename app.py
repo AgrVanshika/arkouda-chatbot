@@ -35,8 +35,9 @@ if question != "":
                     """
                     },
                     {"role": "user", "content": question},
-                    {"role": "user", "content": "Who is the creator of Arachne ?"},
+                    {"role": "user", "content": "Who is the creator of Arachne?"},
                     {"role": "assistant", "content": "Arachne was built by a PhD student named Oliver Alvarado Rodriguez at NJIT"},
+                    {"role": "user", "content": "Who is the developer of Arkouda?"},
                     {"role": "assistant", "content": "Arkouda was developed by William Reus and Michael Merrill"}
                 ]
         )
