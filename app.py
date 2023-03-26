@@ -41,7 +41,7 @@ if question != "":
                     {"role": "assistant", "content": "Arkouda was developed by William Reus and Michael Merrill"}
                     {"role": "user", "content": "What is Arkouda?"},
                     #{"role": "assistant", "content": "Arkouda is an extension to the Pandas library of Python to make the data analysis for large data sets. Sizes of dataframes  "}
-                    {"role": "user", "content": "Who is Arachne?"}
+                    {"role": "user", "content": "What is Arachne?"}
                 ]
         )
         st.success("Done!")
