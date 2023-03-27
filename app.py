@@ -40,7 +40,7 @@ if question != "":
                     {"role": "user", "content": "Who is the developer of Arkouda?"},
                     {"role": "assistant", "content": "Arkouda was developed by William Reus and Michael Merrill"},               
                     {"role": "user", "content": "What is Arkouda?"},                 
-                    {"role": "user", "content": "What is Arachne?"}
+                    {"role": "user", "content": "What is Arachne?"},
                     {"role": "user", "content": "How to install arkouda?"}
                 ]
         )
