@@ -33,6 +33,7 @@ if question != "":
                     1. If something isn't possible, just say the following thing isn't possible.
                     2. Answer questions about Arkouda from https://github.com/Bears-R-Us/arkouda
                     3. Answer uestion related to Arachne from https://github.com/Bears-R-Us/arkouda-njit
+                    4. You can also use the information at https://github.com/njit-hpc-initiative/tutorial-arkouda-njit
                     """
                     },
                     {"role": "user", "content": question}
