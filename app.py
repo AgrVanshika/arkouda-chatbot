@@ -35,6 +35,7 @@ if question != "":
                     3. Answer uestion related to Arachne from https://github.com/Bears-R-Us/arkouda-njit
                     4. You can also use the information at https://github.com/njit-hpc-initiative/tutorial-arkouda-njit
                     5. Some more information is available at https://bears-r-us.github.io/arkouda/
+                    6. Answer questions regarding Chapel from https://chapel-lang.org/
                     """
                     },
                     {"role": "user", "content": question}
