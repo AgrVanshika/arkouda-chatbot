@@ -31,7 +31,7 @@ if question != "":
             
                     Rules:
                     1. If something isn't possible, just say the following thing isn't possible.
-                    2. Answer questions about Arkouda at https://www.njit.edu/admissions/undergraduate-admissions
+                    2. Answer questions about Arkouda at github.com/Bears-R-Us/arkouda and https://bears-r-us.github.io/arkouda
                     """
                     },
                     {"role": "user", "content": question},
