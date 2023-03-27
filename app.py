@@ -31,14 +31,10 @@ if question != "":
             
                     Rules:
                     1. If something isn't possible, just say the following thing isn't possible.
-                    2. Answer questions about Arkouda at https://github.com/Bears-R-Us/arkouda
+                    2. Answer questions about Arkouda from https://github.com/Bears-R-Us/arkouda
                     """
                     },
-                    {"role": "user", "content": question},
-                    {"role": "user", "content": "Who is the creator of Arachne?"},
-                    {"role": "assistant", "content": "Arachne was built by a PhD student named Oliver Alvarado Rodriguez at NJIT"},
-                    {"role": "user", "content": "Who is the developer of Arkouda?"},
-                    {"role": "assistant", "content": "Arkouda was developed by William Reus and Michael Merrill"}
+                    {"role": "user", "content": question}
                 ]
         )
         st.success("Done!")
