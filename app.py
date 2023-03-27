@@ -31,16 +31,16 @@ if question != "":
             
                     Rules:
                     1. If something isn't possible, just say the following thing isn't possible.
-                    2. Answer questions about Arkouda at https://github.com/Bears-R-Us/arkouda and https://bears-r-us.github.io/arkouda
+                    2. Answer questions about Arkouda at https://www.njit.edu/admissions/undergraduate-admissions
                     """
                     },
                     {"role": "user", "content": question},
-                    {"role": "user", "content": "Who is the creator of Arachne?"},
-                    {"role": "assistant", "content": "Arachne was built by a PhD student named Oliver Alvarado Rodriguez at NJIT"},
-                    {"role": "user", "content": "Who is the developer of Arkouda?"},
-                    {"role": "assistant", "content": "Arkouda was developed by William Reus and Michael Merrill"},               
-                    {"role": "user", "content": "What is Arkouda?"},                 
-                    {"role": "user", "content": "What is Arachne?"}
+                    {"role": "user", "content": "How to register for classes at NJIT?"},
+                    #{"role": "assistant", "content": "Arachne was built by a PhD student named Oliver Alvarado Rodriguez at NJIT"},
+                    #{"role": "user", "content": "Who is the developer of Arkouda?"},
+                    #{"role": "assistant", "content": "Arkouda was developed by William Reus and Michael Merrill"},               
+                    #{"role": "user", "content": "What is Arkouda?"},                 
+                    #{"role": "user", "content": "What is Arachne?"}
                 ]
         )
         st.success("Done!")
