@@ -6,4 +6,4 @@ Whether you're a seasoned Arkouda user or just getting started, the Arkouda GPT-
 
 Fun Fact: The above description was also written using GPT 
 
-The code was inspired by my friend Advait's tweet ![link](https://twitter.com/lifeofadvait/status/1637457907942817793?s=20) 
+The code was inspired by my friend Advait's tweet [link](https://twitter.com/lifeofadvait/status/1637457907942817793?s=20) 
