@@ -4,6 +4,20 @@ This repository provides a Python-based API that uses OpenAI's GPT-3.5 model to 
 
 Whether you're a seasoned Arkouda user or just getting started, the Arkouda GPT-3.5 Query API is a convenient and powerful tool for getting the answers you need.
 
+
+In order to create your own customized Assistant, you can just FORK this repository and change the rules as per your need in `app.py` and follow the steps given below
+
+Prerequisites and procedure to run this:
+
+#### Step 1
+`pip install streamlit`
+`pip install openai`
+
+#### Step 2
+Open up a terminal over this repository and run 
+`streamlit run app.py`
+
 Fun Fact: The above description was also written using GPT 
 
 The code was inspired by my friend Advait's tweet [link](https://twitter.com/lifeofadvait/status/1637457907942817793?s=20) 
+
