@@ -9,6 +9,8 @@ In order to create your own customized Assistant, you can just FORK this reposit
 
 Prerequisites and procedure to run this:
 
+- You should have an API key from Open AI to use the GPT 3.5 Turbo Model - [link](https://platform.openai.com/)
+
 #### Step 1
 `pip install streamlit`
 `pip install openai`
